@@ -1,4 +1,4 @@
-#Openswan Docker for AWS
+
 
 Using: 
 
